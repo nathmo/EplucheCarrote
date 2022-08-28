@@ -7,6 +7,7 @@ this repo contains :
 -> mathematical and physical modelling
 -> assembly and usage instruction
 -> step file + inventor files
+-> real world demonstration using a 3D printed prototype
 
 ![image](https://user-images.githubusercontent.com/15912256/187073476-104548c5-6e07-4eab-9a69-f48355eb4ed6.png)
 
@@ -17,3 +18,4 @@ this repo contains :
 
 ![image](https://user-images.githubusercontent.com/15912256/187073607-60e65f81-10c0-431e-909f-22a8300f1fb8.png)
 
+![image](https://user-images.githubusercontent.com/15912256/187073723-d049e615-e456-4226-9ce5-f0c5260b9d66.png)
