@@ -2,12 +2,12 @@
 crank operated semi automatic carrot peeler
 
 this repo contains :
--> material list (BOM in the 200 $ range)
--> mechanical 2D schematic
--> mathematical and physical modelling
--> assembly and usage instruction
--> step file + inventor files
--> real world demonstration using a 3D printed prototype
+* material list (BOM in the 200 $ range)
+* mechanical 2D schematic
+* mathematical and physical modelling
+* assembly and usage instruction
+* step file + inventor files
+* real world demonstration using a 3D printed prototype
 
 ![image](https://user-images.githubusercontent.com/15912256/187073476-104548c5-6e07-4eab-9a69-f48355eb4ed6.png)
 
