@@ -2,7 +2,7 @@
 crank operated semi automatic carrot peeler
 
 this repo contains :
-* material list (BOM in the 200 $ range)
+* material list (BOM in the 200 $ range) (the work hours are not counted, only hardware in unit quantity)
 * mechanical 2D schematic
 * mathematical and physical modelling
 * assembly and usage instruction
